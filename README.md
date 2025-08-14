@@ -6,5 +6,5 @@ Analyse basique et superficielle de données de systèmes éducatifs.
 ## Partie 2 : 
 Nettoyage et analyse exploratoire plus approfondis.
 
-### Partie 3 : 
+## Partie 3 : 
 Statistiques descriptives et réponse à une problématique métier. 
